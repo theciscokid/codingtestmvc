@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\James\\source\\repos\\CodingTestMVC\\CodingTestMVC\\CodingTestMVC.csproj": {}
+    "C:\\Users\\James\\source\\repos\\codingtestmvc\\CodingTestMVC\\CodingTestMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\James\\source\\repos\\CodingTestMVC\\CodingTestMVC\\CodingTestMVC.csproj": {
+    "C:\\Users\\James\\source\\repos\\codingtestmvc\\CodingTestMVC\\CodingTestMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\James\\source\\repos\\CodingTestMVC\\CodingTestMVC\\CodingTestMVC.csproj",
+        "projectUniqueName": "C:\\Users\\James\\source\\repos\\codingtestmvc\\CodingTestMVC\\CodingTestMVC.csproj",
         "projectName": "CodingTestMVC",
-        "projectPath": "C:\\Users\\James\\source\\repos\\CodingTestMVC\\CodingTestMVC\\CodingTestMVC.csproj",
+        "projectPath": "C:\\Users\\James\\source\\repos\\codingtestmvc\\CodingTestMVC\\CodingTestMVC.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\James\\source\\repos\\CodingTestMVC\\CodingTestMVC\\obj\\",
+        "outputPath": "C:\\Users\\James\\source\\repos\\codingtestmvc\\CodingTestMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
