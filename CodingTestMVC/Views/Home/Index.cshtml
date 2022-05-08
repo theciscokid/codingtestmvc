@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Dictionary<int, string> 
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h2>Companies</h2>
+    @{ 
+        // TODO: 1: Fix issue
+        // TODO: 2: Change from using p to a list i.e. ul
+    } 
+    @foreach(KeyValuePair<int, string> company in Model)
+            {
+                <p>@company.Value</p>
+            }
+</div>
